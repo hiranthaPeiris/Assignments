@@ -1,0 +1,9 @@
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W9\Random_polygons\Random_polygons\bin\Debug\Random_polygons.exe.config
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W9\Random_polygons\Random_polygons\bin\Debug\Random_polygons.exe
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W9\Random_polygons\Random_polygons\bin\Debug\Random_polygons.pdb
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W9\Random_polygons\Random_polygons\obj\Debug\Random_polygons.csprojResolveAssemblyReference.cache
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W9\Random_polygons\Random_polygons\obj\Debug\Random_polygons.Form1.resources
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W9\Random_polygons\Random_polygons\obj\Debug\Random_polygons.Properties.Resources.resources
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W9\Random_polygons\Random_polygons\obj\Debug\Random_polygons.csproj.GenerateResource.Cache
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W9\Random_polygons\Random_polygons\obj\Debug\Random_polygons.exe
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W9\Random_polygons\Random_polygons\obj\Debug\Random_polygons.pdb

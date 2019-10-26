@@ -1,0 +1,10 @@
+C:\Users\Sandman\source\repos\String Variables\String Variables\bin\Debug\String Variables.exe.config
+C:\Users\Sandman\source\repos\String Variables\String Variables\bin\Debug\String Variables.exe
+C:\Users\Sandman\source\repos\String Variables\String Variables\bin\Debug\String Variables.pdb
+C:\Users\Sandman\source\repos\String Variables\String Variables\obj\Debug\String Variables.csprojAssemblyReference.cache
+C:\Users\Sandman\source\repos\String Variables\String Variables\obj\Debug\String_Variables.Form1.resources
+C:\Users\Sandman\source\repos\String Variables\String Variables\obj\Debug\String_Variables.Properties.Resources.resources
+C:\Users\Sandman\source\repos\String Variables\String Variables\obj\Debug\String Variables.csproj.GenerateResource.cache
+C:\Users\Sandman\source\repos\String Variables\String Variables\obj\Debug\String Variables.csproj.CoreCompileInputs.cache
+C:\Users\Sandman\source\repos\String Variables\String Variables\obj\Debug\String Variables.exe
+C:\Users\Sandman\source\repos\String Variables\String Variables\obj\Debug\String Variables.pdb

@@ -1,0 +1,9 @@
+D:\Graphics\L1\project2\project2\bin\Debug\project2.exe.config
+D:\Graphics\L1\project2\project2\bin\Debug\project2.exe
+D:\Graphics\L1\project2\project2\bin\Debug\project2.pdb
+D:\Graphics\L1\project2\project2\obj\Debug\project2.csprojResolveAssemblyReference.cache
+D:\Graphics\L1\project2\project2\obj\Debug\project2.Form1.resources
+D:\Graphics\L1\project2\project2\obj\Debug\project2.Properties.Resources.resources
+D:\Graphics\L1\project2\project2\obj\Debug\project2.csproj.GenerateResource.Cache
+D:\Graphics\L1\project2\project2\obj\Debug\project2.exe
+D:\Graphics\L1\project2\project2\obj\Debug\project2.pdb

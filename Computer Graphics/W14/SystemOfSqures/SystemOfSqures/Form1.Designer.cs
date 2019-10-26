@@ -34,16 +34,19 @@
             // 
             // panel1
             // 
-            this.panel1.Location = new System.Drawing.Point(10, 12);
+            this.panel1.BackColor = System.Drawing.Color.Silver;
+            this.panel1.Location = new System.Drawing.Point(13, 15);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(527, 425);
+            this.panel1.Size = new System.Drawing.Size(703, 523);
             this.panel1.TabIndex = 0;
             // 
             // run
             // 
-            this.run.Location = new System.Drawing.Point(10, 443);
+            this.run.Location = new System.Drawing.Point(13, 545);
+            this.run.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.run.Name = "run";
-            this.run.Size = new System.Drawing.Size(103, 21);
+            this.run.Size = new System.Drawing.Size(137, 26);
             this.run.TabIndex = 1;
             this.run.Text = "RUN";
             this.run.UseVisualStyleBackColor = true;
@@ -51,11 +54,12 @@
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(543, 473);
+            this.ClientSize = new System.Drawing.Size(724, 582);
             this.Controls.Add(this.run);
             this.Controls.Add(this.panel1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);

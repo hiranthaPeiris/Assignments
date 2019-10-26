@@ -1,0 +1,9 @@
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\project1\project1\bin\Debug\project1.exe.config
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\project1\project1\bin\Debug\project1.exe
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\project1\project1\bin\Debug\project1.pdb
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\project1\project1\obj\Debug\project1.csprojResolveAssemblyReference.cache
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\project1\project1\obj\Debug\project1.Form1.resources
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\project1\project1\obj\Debug\project1.Properties.Resources.resources
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\project1\project1\obj\Debug\project1.csproj.GenerateResource.Cache
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\project1\project1\obj\Debug\project1.exe
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\project1\project1\obj\Debug\project1.pdb

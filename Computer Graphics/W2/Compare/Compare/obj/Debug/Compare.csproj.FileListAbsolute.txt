@@ -1,0 +1,8 @@
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W2\Compare\Compare\bin\Debug\Compare.exe.config
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W2\Compare\Compare\bin\Debug\Compare.exe
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W2\Compare\Compare\bin\Debug\Compare.pdb
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W2\Compare\Compare\obj\Debug\Compare.Form1.resources
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W2\Compare\Compare\obj\Debug\Compare.Properties.Resources.resources
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W2\Compare\Compare\obj\Debug\Compare.csproj.GenerateResource.Cache
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W2\Compare\Compare\obj\Debug\Compare.exe
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W2\Compare\Compare\obj\Debug\Compare.pdb

@@ -1,0 +1,9 @@
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\Clipping\Clipping\bin\Debug\Clipping.exe.config
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\Clipping\Clipping\bin\Debug\Clipping.exe
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\Clipping\Clipping\bin\Debug\Clipping.pdb
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\Clipping\Clipping\obj\Debug\Clipping.csprojResolveAssemblyReference.cache
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\Clipping\Clipping\obj\Debug\Clipping.Form1.resources
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\Clipping\Clipping\obj\Debug\Clipping.Properties.Resources.resources
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\Clipping\Clipping\obj\Debug\Clipping.csproj.GenerateResource.Cache
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\Clipping\Clipping\obj\Debug\Clipping.exe
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\Clipping\Clipping\obj\Debug\Clipping.pdb

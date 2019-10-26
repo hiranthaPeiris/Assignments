@@ -1,0 +1,9 @@
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\RotationQ\RotationQ\bin\Debug\RotationQ.exe.config
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\RotationQ\RotationQ\bin\Debug\RotationQ.exe
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\RotationQ\RotationQ\bin\Debug\RotationQ.pdb
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\RotationQ\RotationQ\obj\Debug\RotationQ.csprojResolveAssemblyReference.cache
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\RotationQ\RotationQ\obj\Debug\RotationQ.Form1.resources
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\RotationQ\RotationQ\obj\Debug\RotationQ.Properties.Resources.resources
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\RotationQ\RotationQ\obj\Debug\RotationQ.csproj.GenerateResource.Cache
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\RotationQ\RotationQ\obj\Debug\RotationQ.exe
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\RotationQ\RotationQ\obj\Debug\RotationQ.pdb

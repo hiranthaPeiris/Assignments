@@ -1,0 +1,9 @@
+D:\LG\Exam Papers\2018\Graphics_Practical\Q2\Q2\bin\Debug\Q2.exe.config
+D:\LG\Exam Papers\2018\Graphics_Practical\Q2\Q2\bin\Debug\Q2.exe
+D:\LG\Exam Papers\2018\Graphics_Practical\Q2\Q2\bin\Debug\Q2.pdb
+D:\LG\Exam Papers\2018\Graphics_Practical\Q2\Q2\obj\Debug\Q2.csprojResolveAssemblyReference.cache
+D:\LG\Exam Papers\2018\Graphics_Practical\Q2\Q2\obj\Debug\Q2.Form1.resources
+D:\LG\Exam Papers\2018\Graphics_Practical\Q2\Q2\obj\Debug\Q2.Properties.Resources.resources
+D:\LG\Exam Papers\2018\Graphics_Practical\Q2\Q2\obj\Debug\Q2.csproj.GenerateResource.Cache
+D:\LG\Exam Papers\2018\Graphics_Practical\Q2\Q2\obj\Debug\Q2.exe
+D:\LG\Exam Papers\2018\Graphics_Practical\Q2\Q2\obj\Debug\Q2.pdb

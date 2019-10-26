@@ -1,0 +1,5 @@
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\Convex_polygon\Convex_polygon\bin\Debug\Convex_polygon.exe.config
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\Convex_polygon\Convex_polygon\obj\Debug\Convex_polygon.csprojResolveAssemblyReference.cache
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\Convex_polygon\Convex_polygon\obj\Debug\Convex_polygon.Form1.resources
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\Convex_polygon\Convex_polygon\obj\Debug\Convex_polygon.Properties.Resources.resources
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\Convex_polygon\Convex_polygon\obj\Debug\Convex_polygon.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+C:\Users\Sandman\source\repos\Arithmatic\Arithmatic\bin\Debug\Arithmatic.exe.config
+C:\Users\Sandman\source\repos\Arithmatic\Arithmatic\bin\Debug\Arithmatic.exe
+C:\Users\Sandman\source\repos\Arithmatic\Arithmatic\bin\Debug\Arithmatic.pdb
+C:\Users\Sandman\source\repos\Arithmatic\Arithmatic\obj\Debug\Arithmatic.csprojAssemblyReference.cache
+C:\Users\Sandman\source\repos\Arithmatic\Arithmatic\obj\Debug\Arithmatic.Form1.resources
+C:\Users\Sandman\source\repos\Arithmatic\Arithmatic\obj\Debug\Arithmatic.Properties.Resources.resources
+C:\Users\Sandman\source\repos\Arithmatic\Arithmatic\obj\Debug\Arithmatic.csproj.GenerateResource.cache
+C:\Users\Sandman\source\repos\Arithmatic\Arithmatic\obj\Debug\Arithmatic.csproj.CoreCompileInputs.cache
+C:\Users\Sandman\source\repos\Arithmatic\Arithmatic\obj\Debug\Arithmatic.exe
+C:\Users\Sandman\source\repos\Arithmatic\Arithmatic\obj\Debug\Arithmatic.pdb
