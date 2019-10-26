@@ -1,0 +1,9 @@
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe.config
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\AnalogClock\AnalogClock\bin\Debug\AnalogClock.exe
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\AnalogClock\AnalogClock\bin\Debug\AnalogClock.pdb
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csprojResolveAssemblyReference.cache
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Form1.resources
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\AnalogClock\AnalogClock\obj\Debug\AnalogClock.Properties.Resources.resources
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\AnalogClock\AnalogClock\obj\Debug\AnalogClock.csproj.GenerateResource.Cache
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\AnalogClock\AnalogClock\obj\Debug\AnalogClock.exe
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W10\AnalogClock\AnalogClock\obj\Debug\AnalogClock.pdb
