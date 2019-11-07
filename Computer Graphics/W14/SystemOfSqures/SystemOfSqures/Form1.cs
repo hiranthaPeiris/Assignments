@@ -75,13 +75,19 @@ namespace SystemOfSqures
             Rotate(o, i, theta);
             Translate(o, i, x, y);
         }
-        private void run_Click(object sender, EventArgs e)
+        private async void run_Click(object sender, EventArgs e)
+        {
+            await Task.Run(() => runAnimation());
+        }
+
+
+        private void runAnimation()
         {
             int i;
-            double x0,y0;
+            double x0, y0;
             initialize();
             Vertex centerP = getCenterPoint(0);
-            
+
             //Console.WriteLine(panel1.Width/2);
             //Console.WriteLine(panel1.Height / 2);
             while (true)
@@ -89,7 +95,7 @@ namespace SystemOfSqures
                 //f_rotate(0, i, 0.1, centerP.x, centerP.y);
                 for (i = 0; i < points[0]; i++)
                 {
-                    f_rotate(0, i, 0.1, centerP.x,centerP.y);
+                    f_rotate(0, i, 0.1, centerP.x, centerP.y);
                     f_rotate(1, i, 0.1, centerP.x, centerP.y);
                     f_rotate(2, i, 0.1, centerP.x, centerP.y);
                     f_rotate(3, i, 0.1, centerP.x, centerP.y);
@@ -102,15 +108,15 @@ namespace SystemOfSqures
 
                 for (i = 0; i < points[0]; i++)
                 {
-                    f_rotate(1, i, 0.1, centerP1.x, centerP1.y);
-                    f_rotate(2, i, 0.1, centerP2.x, centerP2.y);
-                    f_rotate(3, i, 0.1, centerP3.x, centerP3.y);
-                    f_rotate(4, i, 0.1, centerP4.x, centerP4.y);
+                    f_rotate(1, i, 0.5, centerP1.x, centerP1.y);
+                    f_rotate(2, i, 0.5, centerP2.x, centerP2.y);
+                    f_rotate(3, i, 0.5, centerP3.x, centerP3.y);
+                    f_rotate(4, i, 0.5, centerP4.x, centerP4.y);
                 }
 
-         
 
-                DrawPolygon(0,1,Pens.Red);
+
+                DrawPolygon(0, 1, Pens.Red);
                 DrawPolygon(1, 1, Pens.Blue);
                 DrawPolygon(2, 1, Pens.Blue);
                 DrawPolygon(3, 1, Pens.Blue);
@@ -125,7 +131,6 @@ namespace SystemOfSqures
             }
             //DrawPolygon(0, 1, Pens.Red);
         }
-
         private void Form1_Load(object sender, EventArgs e)
         {
             graphics = panel1.CreateGraphics();
@@ -174,6 +179,16 @@ namespace SystemOfSqures
             y[3, 2] = y[0, 2] + t1;
             x[3, 3] = x[0, 2] - t1;
             y[3, 3] = y[0, 2] - t1;
+
+            points[4] = 4;
+            x[4, 0] = x[0, 3] + t1;
+            y[4, 0] = y[0, 3] - t1;
+            x[4, 1] = x[0, 3] + t1;
+            y[4, 1] = y[0, 3] + t1;
+            x[4, 2] = x[0, 3] - t1;
+            y[4, 2] = y[0, 3] + t1;
+            x[4, 3] = x[0, 3] - t1;
+            y[4, 3] = y[0, 3] - t1;
 
 
 
