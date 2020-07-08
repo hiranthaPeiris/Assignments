@@ -1,0 +1,9 @@
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W14\SystemOfSqures\SystemOfSqures\bin\Debug\SystemOfSqures.exe.config
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W14\SystemOfSqures\SystemOfSqures\bin\Debug\SystemOfSqures.exe
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W14\SystemOfSqures\SystemOfSqures\bin\Debug\SystemOfSqures.pdb
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W14\SystemOfSqures\SystemOfSqures\obj\Debug\SystemOfSqures.csprojResolveAssemblyReference.cache
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W14\SystemOfSqures\SystemOfSqures\obj\Debug\SystemOfSqures.Form1.resources
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W14\SystemOfSqures\SystemOfSqures\obj\Debug\SystemOfSqures.Properties.Resources.resources
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W14\SystemOfSqures\SystemOfSqures\obj\Debug\SystemOfSqures.csproj.GenerateResource.Cache
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W14\SystemOfSqures\SystemOfSqures\obj\Debug\SystemOfSqures.exe
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W14\SystemOfSqures\SystemOfSqures\obj\Debug\SystemOfSqures.pdb

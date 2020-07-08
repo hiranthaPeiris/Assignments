@@ -1,0 +1,26 @@
+C:\Users\bcs2\Documents\SC10284\Practicals\Computer Graphics and Image Processing\CS\W9\Rotate\Rotate\bin\Debug\Rotate.exe
+C:\Users\bcs2\Documents\SC10284\Practicals\Computer Graphics and Image Processing\CS\W9\Rotate\Rotate\bin\Debug\Rotate.pdb
+C:\Users\bcs2\Documents\SC10284\Practicals\Computer Graphics and Image Processing\CS\W9\Rotate\Rotate\obj\Debug\Rotate.csprojResolveAssemblyReference.cache
+C:\Users\bcs2\Documents\SC10284\Practicals\Computer Graphics and Image Processing\CS\W9\Rotate\Rotate\obj\Debug\Rotate.Properties.Resources.resources
+C:\Users\bcs2\Documents\SC10284\Practicals\Computer Graphics and Image Processing\CS\W9\Rotate\Rotate\obj\Debug\Rotate.csproj.GenerateResource.Cache
+C:\Users\bcs2\Documents\SC10284\Practicals\Computer Graphics and Image Processing\CS\W9\Rotate\Rotate\obj\Debug\Rotate.exe
+C:\Users\bcs2\Documents\SC10284\Practicals\Computer Graphics and Image Processing\CS\W9\Rotate\Rotate\obj\Debug\Rotate.pdb
+C:\Users\bcs2\Documents\SC10284\Practicals\Computer Graphics and Image Processing\CS\W11\Sample\Rotate\Rotate\obj\Debug\Rotate.exe
+C:\Users\bcs2\Documents\SC10284\Practicals\Computer Graphics and Image Processing\CS\W11\Sample\Rotate\Rotate\obj\Debug\Rotate.pdb
+C:\Users\bcs2\Documents\SC10284\Practicals\Computer Graphics and Image Processing\CS\W11\Sample\Rotate\Rotate\bin\Debug\Rotate.exe
+C:\Users\bcs2\Documents\SC10284\Practicals\Computer Graphics and Image Processing\CS\W11\Sample\Rotate\Rotate\bin\Debug\Rotate.pdb
+C:\Users\bcs2\Documents\SC10284\Practicals\Computer Graphics and Image Processing\CS\W11\Sample\Rotate\Rotate\obj\Debug\Rotate.csprojResolveAssemblyReference.cache
+C:\Users\bcs2\Documents\SC10284\Practicals\Computer Graphics and Image Processing\CS\W11\Sample\Rotate\Rotate\obj\Debug\Rotate.Properties.Resources.resources
+C:\Users\bcs2\Documents\SC10284\Practicals\Computer Graphics and Image Processing\CS\W11\Sample\Rotate\Rotate\obj\Debug\Rotate.csproj.GenerateResource.Cache
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\W11\Sample\Rotate\Rotate\obj\Debug\Rotate.exe
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\W11\Sample\Rotate\Rotate\obj\Debug\Rotate.pdb
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\W11\Sample\Rotate\Rotate\bin\Debug\Rotate.exe
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\W11\Sample\Rotate\Rotate\bin\Debug\Rotate.pdb
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\W11\Sample\Rotate\Rotate\obj\Debug\Rotate.csprojResolveAssemblyReference.cache
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\W11\Sample\Rotate\Rotate\obj\Debug\Rotate.Properties.Resources.resources
+C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\W11\Sample\Rotate\Rotate\obj\Debug\Rotate.csproj.GenerateResource.Cache
+F:\2 year\Assignments\Computer Graphics\W15\Rotate\Rotate\obj\Debug\Rotate.csprojAssemblyReference.cache
+F:\2 year\Assignments\Computer Graphics\W15\Rotate\Rotate\obj\Debug\Rotate.Properties.Resources.resources
+F:\2 year\Assignments\Computer Graphics\W15\Rotate\Rotate\obj\Debug\Rotate.csproj.GenerateResource.cache
+F:\2 year\Assignments\Computer Graphics\W15\Rotate\Rotate\obj\Debug\Rotate.exe
+F:\2 year\Assignments\Computer Graphics\W15\Rotate\Rotate\obj\Debug\Rotate.pdb

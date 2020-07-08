@@ -84,7 +84,7 @@ namespace SystemOfSqures
         private void runAnimation()
         {
             int i;
-            double x0, y0;
+            
             initialize();
             Vertex centerP = getCenterPoint(0);
 

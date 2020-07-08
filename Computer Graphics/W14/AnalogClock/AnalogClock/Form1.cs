@@ -41,7 +41,7 @@ namespace AnalogClock
             w = 2 * r;
             graphics.DrawEllipse(Pens.Black, x1, panel1.Height - y1, w, w);
         }
-
+        private void DrawStrings()
         private void DrawPolygon(int o)
         {
             int i, j;

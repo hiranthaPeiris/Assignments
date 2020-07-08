@@ -7,3 +7,12 @@ C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\interior_algo\interior_algo\obj\Debu
 C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\interior_algo\interior_algo\obj\Debug\interior_algo.csproj.GenerateResource.Cache
 C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\interior_algo\interior_algo\obj\Debug\interior_algo.exe
 C:\Users\bcs2.DESKTOP-FLE8BJF\Desktop\CS\W4\interior_algo\interior_algo\obj\Debug\interior_algo.pdb
+F:\2 year\Assignments\Computer Graphics\W4\interior_algo\interior_algo\bin\Debug\interior_algo.exe.config
+F:\2 year\Assignments\Computer Graphics\W4\interior_algo\interior_algo\bin\Debug\interior_algo.exe
+F:\2 year\Assignments\Computer Graphics\W4\interior_algo\interior_algo\bin\Debug\interior_algo.pdb
+F:\2 year\Assignments\Computer Graphics\W4\interior_algo\interior_algo\obj\Debug\interior_algo.Form1.resources
+F:\2 year\Assignments\Computer Graphics\W4\interior_algo\interior_algo\obj\Debug\interior_algo.Properties.Resources.resources
+F:\2 year\Assignments\Computer Graphics\W4\interior_algo\interior_algo\obj\Debug\interior_algo.csproj.GenerateResource.cache
+F:\2 year\Assignments\Computer Graphics\W4\interior_algo\interior_algo\obj\Debug\interior_algo.csproj.CoreCompileInputs.cache
+F:\2 year\Assignments\Computer Graphics\W4\interior_algo\interior_algo\obj\Debug\interior_algo.exe
+F:\2 year\Assignments\Computer Graphics\W4\interior_algo\interior_algo\obj\Debug\interior_algo.pdb

@@ -1,0 +1,10 @@
+E:\Image Processeing Exam\Clock1\Clock1\bin\Debug\Clock1.exe.config
+E:\Image Processeing Exam\Clock1\Clock1\bin\Debug\Clock1.exe
+E:\Image Processeing Exam\Clock1\Clock1\bin\Debug\Clock1.pdb
+E:\Image Processeing Exam\Clock1\Clock1\obj\Debug\Clock1.csprojAssemblyReference.cache
+E:\Image Processeing Exam\Clock1\Clock1\obj\Debug\Clock1.Form1.resources
+E:\Image Processeing Exam\Clock1\Clock1\obj\Debug\Clock1.Properties.Resources.resources
+E:\Image Processeing Exam\Clock1\Clock1\obj\Debug\Clock1.csproj.GenerateResource.cache
+E:\Image Processeing Exam\Clock1\Clock1\obj\Debug\Clock1.csproj.CoreCompileInputs.cache
+E:\Image Processeing Exam\Clock1\Clock1\obj\Debug\Clock1.exe
+E:\Image Processeing Exam\Clock1\Clock1\obj\Debug\Clock1.pdb

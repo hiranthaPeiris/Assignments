@@ -40,7 +40,7 @@ namespace RotationQ
             Graphics g = panel1.CreateGraphics();
             x1 = xc - r;
             y1 = yc + r;
-            w = 2 * r;
+            w = 2 * r;	
             g.DrawEllipse(Pens.Red, x1, panel1.Height - y1, w, w);
         }
 
